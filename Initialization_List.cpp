@@ -2,7 +2,7 @@
 /*==================================================================================================
 
        Name of Training:- C++ 11 and 14 New Features 
-	   Name of Trainer :- Mithun Shinde (NX Arctechiture Team)
+	   Name of Trainer :- Mithun Shinde 
 	   Name of Trainee :- Samir Mastekar (Team Center Integrated NX)
 ====================================================================================================
 File description: Initialization List
