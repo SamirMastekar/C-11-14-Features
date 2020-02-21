@@ -1,8 +1,8 @@
 //*decltype keyword IN C++ 11 & 14*/
 /*==================================================================================================
 
-       Name of Training:- C++ 11 and 14 New Features Training at Siemens Software Pvt. Ltd.
-	   Name of Trainer :- Mithun Shinde (NX Arctechiture Team)
+       Name of Training:- C++ 11 and 14 New Features 
+	   Name of Trainer :- Mithun Shinde 
 	   Name of Trainee :- Samir Mastekar (Team Center Integrated NX)
 ====================================================================================================
 File description: decltype keyword
