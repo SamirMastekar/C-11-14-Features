@@ -1,7 +1,7 @@
 //*Initialization List IN C++ 11 & 14*/
 /*==================================================================================================
 
-       Name of Training:- C++ 11 and 14 New Features Training at Siemens Software Pvt. Ltd.
+       Name of Training:- C++ 11 and 14 New Features 
 	   Name of Trainer :- Mithun Shinde (NX Arctechiture Team)
 	   Name of Trainee :- Samir Mastekar (Team Center Integrated NX)
 ====================================================================================================
